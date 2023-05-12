@@ -44,6 +44,7 @@ const AboutUsSection = () => {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center text-justify">
         <div className="flex justify-start">
           <Image
+            priority
             src="/lkipl.png"
             alt="LaxmiKripa Ispat"
             width={86}

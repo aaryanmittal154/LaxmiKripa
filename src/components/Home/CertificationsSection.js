@@ -48,7 +48,6 @@ const CertificationsSection = () => {
       initial="hidden"
       animate={inView ? "visible" : "hidden"}
     >
-      {/* Rest of the code remains the same */}
       <div className="text-center">
         <h2 className="text-base font-semibold text-indigo-600 tracking-wide uppercase">
           LaxmiKripa Ispat
@@ -79,7 +78,6 @@ const CertificationsSection = () => {
                 alt={certification.name}
                 width={600}
                 height={400}
-                layout="responsive"
               />
             </div>
             <div className="flex-1 bg-gray-50 p-6 flex flex-col justify-between">
