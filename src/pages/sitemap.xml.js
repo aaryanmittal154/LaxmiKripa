@@ -9,22 +9,22 @@ function generateSiteMap(posts) {
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
       <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
       <url>
-        <loc>https://www.laxmikripaispat.com/</loc>
+        <loc>https://www.laxmikripaispat.in/</loc>
         <lastmod>2023-05-12T12:34:37+00:00</lastmod>
         <priority>1.00</priority>
       </url>
       <url>
-        <loc>https://www.laxmikripaispat.com/about</loc>
+        <loc>https://www.laxmikripaispat.in/about</loc>
         <lastmod>2023-05-12T12:34:37+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://www.laxmikripaispat.com/products</loc>
+        <loc>https://www.laxmikripaispat.in/products</loc>
         <lastmod>2023-05-12T12:34:37+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://www.laxmikripaispat.com/contact</loc>
+        <loc>https://www.laxmikripaispat.in/contact</loc>
         <lastmod>2023-05-12T12:34:37+00:00</lastmod>
         <priority>0.80</priority>
       </url>
