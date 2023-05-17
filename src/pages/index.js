@@ -18,15 +18,15 @@ export default function Home() {
         <link rel="icon" href="/laxmikripa.png" />
         <meta
           name="description"
-          content="LaxmiKripa Ispat is a leading manufacturer of steel products, offering high-quality hinges, MS angles, and more. Discover our wide range of products and services."
+          content="Laxmi Kripa Ispat is a leading manufacturer of steel products, offering high-quality hinges, MS angles, and more. Discover our wide range of products and services."
         />
         <meta
           name="keywords"
-          content="LaxmiKripa Ispat, steel manufacturing, hinges, MS angles, steel products, steel industry"
+          content="Laxmi Kripa Ispat, steel manufacturing, hinges, MS angles, steel products, steel industry"
         />
         <meta
           property="og:title"
-          content="LaxmiKripa Ispat | Leading Steel Manufacturer"
+          content="Laxmi Kripa Ispat | Leading Steel Manufacturer"
         />
         <meta
           property="og:description"
