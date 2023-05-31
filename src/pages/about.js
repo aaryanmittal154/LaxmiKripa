@@ -8,6 +8,7 @@ import CorePurpose from "../components/About/CorePurpose";
 import TimelineSection from "../components/About/TimelineSection";
 import GetInTouchSection from "../components/Contact/GetInTouchSection";
 import WhatsAppConnect from "../components/Contact/WhatsAppConnect";
+import YoutubePreview from "../components/About/YoutubePreview";
 
 export default function Home() {
   return (
@@ -71,6 +72,7 @@ export default function Home() {
       </Head>
       <Header />
       <AboutSection />
+      <YoutubePreview />
       <TimelineSection />
       <CorePurpose />
       <CoreValuesSection />
