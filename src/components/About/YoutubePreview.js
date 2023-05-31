@@ -26,8 +26,7 @@ const YoutubePreview = ({ videoId }) => {
         Our Environmental Pledge
       </h2>
       <p className="mb-6 text-center text-indigo-500 text-semibold text-xl">
-        Join us on our journey towards a more sustainable future. Watch our
-        Environmental Pledge below.
+        Join us on our journey towards a more sustainable future!
       </p>
       <iframe
         className="rounded-lg"
